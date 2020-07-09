@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋🏾
+
+Looking for a front-end developer with a specialty in React JS and a intermediate understanding of back-end technologies 🧙🏾‍♂️, one that could also double as a UI/UX designer 🤹🏾‍♂️, or perhaps just an eager and passionate programmer 👨🏾‍💻. If this sounds like someone you're looking for, look no further! 🦸🏾‍♂️
+
+![](supGif.gif)
 
 <!--
 **AhmedAlihashi/AhmedAlihashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
