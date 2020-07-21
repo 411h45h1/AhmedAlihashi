@@ -1,6 +1,6 @@
-# Hi there 👋🏾
+# Hi there 👋🏾 <img src="https://media1.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47ah1sw71i6slqdytmcjppx0xlxkxf2xo3wpucx9cs&rid=giphy.gif" height='5%' width='5%' ></img>
 
-## Looking for a front-end developer with a specialty in React Js ⚛️ and a intermediate understanding of back-end technologies 🧙🏾‍♂️, one that could also double as a UI/UX designer 🤹🏾‍♂️, or perhaps just an eager and passionate programmer 👨🏾‍💻. If this sounds like someone you're looking for, look no further! <img src="https://media1.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif?cid=ecf05e47ah1sw71i6slqdytmcjppx0xlxkxf2xo3wpucx9cs&rid=giphy.gif" height='5%' width='5%' ></img>
+## Looking for a front-end developer with a specialty in React Js ⚛️ and a intermediate understanding of back-end technologies 🧙🏾‍♂️, one that could also double as a UI/UX designer 🤹🏾‍♂️, or perhaps just an eager and passionate programmer 👨🏾‍💻. If this sounds like someone you're looking for, look no further! 
 
 
 
