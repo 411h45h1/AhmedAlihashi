@@ -4,7 +4,10 @@
 
 
 
-![](https://i.imgur.com/aAEW3hA.gif)
+
+<img src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height='100' width='110' ></img>
+<img src="https://media3.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" height='100' width='120' ></img>
+<img src="https://media1.giphy.com/media/Job1nsnpm5a6bPWOQq/giphy.gif" height='100' width='120' ></img>
 
 <!--
 **AhmedAlihashi/AhmedAlihashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
